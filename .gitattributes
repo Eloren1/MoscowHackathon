@@ -40,3 +40,4 @@
 *.g4 filter=lfs diff=lfs merge=lfs -text
 *.tokens filter=lfs diff=lfs merge=lfs -text
 *.cmp filter=lfs diff=lfs merge=lfs -text
+*.vfx filter=lfs diff=lfs merge=lfs -text
